@@ -1,0 +1,7 @@
+c:\users\нурсеитова.corp.000\source\repos\FileSystemApp\FileSystemApp\bin\Debug\FileSystemApp.exe.config
+c:\users\нурсеитова.corp.000\source\repos\FileSystemApp\FileSystemApp\bin\Debug\FileSystemApp.exe
+c:\users\нурсеитова.corp.000\source\repos\FileSystemApp\FileSystemApp\bin\Debug\FileSystemApp.pdb
+c:\users\нурсеитова.corp.000\source\repos\FileSystemApp\FileSystemApp\obj\Debug\FileSystemApp.csprojAssemblyReference.cache
+c:\users\нурсеитова.corp.000\source\repos\FileSystemApp\FileSystemApp\obj\Debug\FileSystemApp.csproj.CoreCompileInputs.cache
+c:\users\нурсеитова.corp.000\source\repos\FileSystemApp\FileSystemApp\obj\Debug\FileSystemApp.exe
+c:\users\нурсеитова.corp.000\source\repos\FileSystemApp\FileSystemApp\obj\Debug\FileSystemApp.pdb
